@@ -1,0 +1,5425 @@
+{
+    "lessons": [
+        {
+            "name": "Lesson 1",
+            "items": [
+                {
+                    "en": "somebody",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "хэн нэгэн"
+                },
+                {
+                    "en": "meeting",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "уулзалт"
+                },
+                {
+                    "en": "floor",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "шал, давхар"
+                },
+                {
+                    "en": "market",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "зах, худалдаалах"
+                },
+                {
+                    "en": "result",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "үр дүн, гарах"
+                },
+                {
+                    "en": "once",
+                    "turul": "adv., conj.",
+                    "level": "A1",
+                    "mn": "нэг удаа, тэр үед"
+                },
+                {
+                    "en": "T-shirt",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "футболк"
+                },
+                {
+                    "en": "supermarket",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "супермаркет"
+                },
+                {
+                    "en": "five",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "таван"
+                },
+                {
+                    "en": "TV",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "телевиз"
+                },
+                {
+                    "en": "fire",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "гал, буудах"
+                },
+                {
+                    "en": "football",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хөлбөмбөг"
+                },
+                {
+                    "en": "passport",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "паспорт"
+                },
+                {
+                    "en": "hospital",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "эмнэлэг"
+                },
+                {
+                    "en": "plant",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "ургамал, суулгах"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 2",
+            "items": [
+                {
+                    "en": "clean",
+                    "turul": "adj., v.",
+                    "level": "A1",
+                    "mn": "цэвэр; цэвэрлэх"
+                },
+                {
+                    "en": "photo",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "зураг"
+                },
+                {
+                    "en": "out",
+                    "turul": "adv./prep.",
+                    "level": "A1",
+                    "mn": "гадна, гадагш"
+                },
+                {
+                    "en": "feeling",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "мэдрэмж"
+                },
+                {
+                    "en": "wait",
+                    "turul": "v./n.",
+                    "level": "A1",
+                    "mn": "хүлээх, хүлээлт"
+                },
+                {
+                    "en": "potato",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "төмс"
+                },
+                {
+                    "en": "tall",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "өндөр"
+                },
+                {
+                    "en": "fruit",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "жимс"
+                },
+                {
+                    "en": "visit",
+                    "turul": "v./n.",
+                    "level": "A1",
+                    "mn": "зочлох, айлчлал"
+                },
+                {
+                    "en": "small",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "бага, жижиг"
+                },
+                {
+                    "en": "dog",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "нохой"
+                },
+                {
+                    "en": "watch",
+                    "turul": "v./n.",
+                    "level": "A1",
+                    "mn": "үзэх, цаг"
+                },
+                {
+                    "en": "pool",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "цөөрөм"
+                },
+                {
+                    "en": "evening",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "орой"
+                },
+                {
+                    "en": "born",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "төрөх"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 3",
+            "items": [
+                {
+                    "en": "kitchen",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "гал тогоо"
+                },
+                {
+                    "en": "list",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "жагсаалт, жагсаах"
+                },
+                {
+                    "en": "yellow",
+                    "turul": "adj./n.",
+                    "level": "A1",
+                    "mn": "шар, шар өнгө"
+                },
+                {
+                    "en": "metre",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "метр"
+                },
+                {
+                    "en": "meat",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "мах"
+                },
+                {
+                    "en": "it",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "тэр, эд зүйл"
+                },
+                {
+                    "en": "match",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "тоглолт, таарах"
+                },
+                {
+                    "en": "cheese",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "бяслаг"
+                },
+                {
+                    "en": "forty",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "дөрвөн арван"
+                },
+                {
+                    "en": "mouth",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "ам"
+                },
+                {
+                    "en": "tea",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "цай"
+                },
+                {
+                    "en": "turn",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "эргэх, эргэлт"
+                },
+                {
+                    "en": "bike",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "дугуй, мотоцикл"
+                },
+                {
+                    "en": "behind",
+                    "turul": "prep., adv.",
+                    "level": "A1",
+                    "mn": "арын, ард"
+                },
+                {
+                    "en": "over",
+                    "turul": "prep., adv.",
+                    "level": "A1",
+                    "mn": "дээр, дээгүүр"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 4",
+            "items": [
+                {
+                    "en": "object",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "бараа, эсэргүүцэх"
+                },
+                {
+                    "en": "no",
+                    "turul": "exclam., det.",
+                    "level": "A1",
+                    "mn": "үгүй"
+                },
+                {
+                    "en": "part",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хэсэг"
+                },
+                {
+                    "en": "routine",
+                    "turul": "n., adj.",
+                    "level": "A1",
+                    "mn": "даралт, хэвшмэл"
+                },
+                {
+                    "en": "cannot",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "чадахгүй"
+                },
+                {
+                    "en": "ride",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "унан явах, уналт"
+                },
+                {
+                    "en": "positive",
+                    "turul": "adj., n.",
+                    "level": "A1",
+                    "mn": "сайн тал, эерэг"
+                },
+                {
+                    "en": "yesterday",
+                    "turul": "adv./n.",
+                    "level": "A1",
+                    "mn": "өчигдөр"
+                },
+                {
+                    "en": "here",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "энд"
+                },
+                {
+                    "en": "repeat",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "давтах, давтан"
+                },
+                {
+                    "en": "chocolate",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "шоколад"
+                },
+                {
+                    "en": "carry",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "тээх, зөөх, барих"
+                },
+                {
+                    "en": "ever",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "хэзээ ч"
+                },
+                {
+                    "en": "hotel",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "зочид буудал"
+                },
+                {
+                    "en": "problem",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "асуулт"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 5",
+            "items": [
+                {
+                    "en": "arrive",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "ирэх"
+                },
+                {
+                    "en": "magazine",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "сэтгүүл"
+                },
+                {
+                    "en": "mean",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "өрнүүлэх, утгаараа"
+                },
+                {
+                    "en": "rule",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "дүрэм, захирах"
+                },
+                {
+                    "en": "group",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "бүлэг"
+                },
+                {
+                    "en": "pound",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "фунт"
+                },
+                {
+                    "en": "interesting",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "соён"
+                },
+                {
+                    "en": "blonde",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "шаргал үстэй"
+                },
+                {
+                    "en": "spell",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "ээр бичих"
+                },
+                {
+                    "en": "horse",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "морь"
+                },
+                {
+                    "en": "usually",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "ихэвчлэн"
+                },
+                {
+                    "en": "day",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "өдөр"
+                },
+                {
+                    "en": "carrot",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "лууван"
+                },
+                {
+                    "en": "birthday",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "төрсөн өдөр"
+                },
+                {
+                    "en": "product",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "бүтээгдэхүүн"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 6",
+            "items": [
+                {
+                    "en": "action",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "үйлдэл, үйл ажиллагаа"
+                },
+                {
+                    "en": "art",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "урлаг"
+                },
+                {
+                    "en": "boyfriend",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "найз залуу"
+                },
+                {
+                    "en": "chicken",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "тахиа; тахианы мах"
+                },
+                {
+                    "en": "enough",
+                    "turul": "det., pron., adv.",
+                    "level": "A1",
+                    "mn": "хүртээмжтэй, хангалттай"
+                },
+                {
+                    "en": "front",
+                    "turul": "n., adj.",
+                    "level": "A1",
+                    "mn": "урд, урд тал"
+                },
+                {
+                    "en": "description",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "тодорхойлолт"
+                },
+                {
+                    "en": "April",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "дөрөвдүгээр сар"
+                },
+                {
+                    "en": "travel",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "аялах, аялал"
+                },
+                {
+                    "en": "advice",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "зөвлөгөө"
+                },
+                {
+                    "en": "newspaper",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "сонин"
+                },
+                {
+                    "en": "farm",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "ферм, тариалах"
+                },
+                {
+                    "en": "old",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "хуучин"
+                },
+                {
+                    "en": "juice",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "жимсний шүүс"
+                },
+                {
+                    "en": "friend",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "найз"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 7",
+            "items": [
+                {
+                    "en": "sorry",
+                    "turul": "adj., exclam.",
+                    "level": "A1",
+                    "mn": "уучлаарай, харамсах"
+                },
+                {
+                    "en": "where",
+                    "turul": "adv./conj.",
+                    "level": "A1",
+                    "mn": "хаана"
+                },
+                {
+                    "en": "February",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хоёрдугаар сар"
+                },
+                {
+                    "en": "probably",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "магадгүй"
+                },
+                {
+                    "en": "paper",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "цаас"
+                },
+                {
+                    "en": "many",
+                    "turul": "det./pron.",
+                    "level": "A1",
+                    "mn": "олон"
+                },
+                {
+                    "en": "sixteen",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "арван зургаа"
+                },
+                {
+                    "en": "dad",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "эцэг"
+                },
+                {
+                    "en": "space",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "орон зай"
+                },
+                {
+                    "en": "bottle",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "шилэн сав, лонх"
+                },
+                {
+                    "en": "sing",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "дуу"
+                },
+                {
+                    "en": "lie1",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "унтах, хэвтэх"
+                },
+                {
+                    "en": "everything",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "бүх зүйл"
+                },
+                {
+                    "en": "anyone",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "хэн нэгэн"
+                },
+                {
+                    "en": "return",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "эргэж ирэх, эргэж ирэлт"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 8",
+            "items": [
+                {
+                    "en": "autumn",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "намар"
+                },
+                {
+                    "en": "kind",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "төрөл"
+                },
+                {
+                    "en": "shoe",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "гутал"
+                },
+                {
+                    "en": "amazing",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "гайхалтай"
+                },
+                {
+                    "en": "extra",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "нэмэлт"
+                },
+                {
+                    "en": "customer",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хэрэглэгч"
+                },
+                {
+                    "en": "park",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "парк, зогсоох"
+                },
+                {
+                    "en": "exercise",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "дасгал"
+                },
+                {
+                    "en": "snow",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "цас, цас орох"
+                },
+                {
+                    "en": "about",
+                    "turul": "prep., adv.",
+                    "level": "A1",
+                    "mn": "тухай, орчим"
+                },
+                {
+                    "en": "see",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "харах"
+                },
+                {
+                    "en": "scientist",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "эрдэмтэн"
+                },
+                {
+                    "en": "exam",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "шалгалт"
+                },
+                {
+                    "en": "detail",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "деталь, дэлгэрэнгүй тайлбарлах"
+                },
+                {
+                    "en": "sick",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "өвчтэй"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 9",
+            "items": [
+                {
+                    "en": "cow",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "үнээ"
+                },
+                {
+                    "en": "bag",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "цүнх, уут"
+                },
+                {
+                    "en": "be",
+                    "turul": "v., auxiliary v.",
+                    "level": "A1",
+                    "mn": "байх"
+                },
+                {
+                    "en": "dance",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "бүжиг, бүжиглэх"
+                },
+                {
+                    "en": "eye",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "нүд"
+                },
+                {
+                    "en": "under",
+                    "turul": "prep./adv.",
+                    "level": "A1",
+                    "mn": "доор, дор"
+                },
+                {
+                    "en": "let",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "зөвшөөрөх"
+                },
+                {
+                    "en": "activity",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "үйл ажиллагаа"
+                },
+                {
+                    "en": "fill",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "бүтээх, дүүргэх"
+                },
+                {
+                    "en": "nose",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хамар"
+                },
+                {
+                    "en": "can¹",
+                    "turul": "modal v.",
+                    "level": "A1",
+                    "mn": "чадна, боломжтой"
+                },
+                {
+                    "en": "office",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "офис, алба"
+                },
+                {
+                    "en": "us",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "биднийг"
+                },
+                {
+                    "en": "special",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "онцгой"
+                },
+                {
+                    "en": "home",
+                    "turul": "n., adv., adj.",
+                    "level": "A1",
+                    "mn": "гэр, гэрт, гэрийн"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 10",
+            "items": [
+                {
+                    "en": "work",
+                    "turul": "v./n.",
+                    "level": "A1",
+                    "mn": "ажиллах, ажил"
+                },
+                {
+                    "en": "centre",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "төв; төвлөрөх, төвлөрүүлэх"
+                },
+                {
+                    "en": "morning",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "өглөө"
+                },
+                {
+                    "en": "terrible",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "муу, аймшигтай"
+                },
+                {
+                    "en": "ear",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "сонсголын эрхтэн, чих"
+                },
+                {
+                    "en": "excited",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "сэтгэл хөдөлсөн"
+                },
+                {
+                    "en": "sound",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "дуу, сонсогдох"
+                },
+                {
+                    "en": "bedroom",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "унтлагын өрөө"
+                },
+                {
+                    "en": "open",
+                    "turul": "adj., v.",
+                    "level": "A1",
+                    "mn": "нээх, нээлттэй"
+                },
+                {
+                    "en": "two",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "хоёр"
+                },
+                {
+                    "en": "goodbye",
+                    "turul": "exclam./n.",
+                    "level": "A1",
+                    "mn": "баяртай"
+                },
+                {
+                    "en": "rice",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "будаа"
+                },
+                {
+                    "en": "waiter",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "зөөгч"
+                },
+                {
+                    "en": "take",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "авах"
+                },
+                {
+                    "en": "actress",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "эмэгтэй жүжигчин"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 11",
+            "items": [
+                {
+                    "en": "hour",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "цаг"
+                },
+                {
+                    "en": "upstairs",
+                    "turul": "adv./adj.",
+                    "level": "A1",
+                    "mn": "дээд давхарт"
+                },
+                {
+                    "en": "wonderful",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "гайхалтай"
+                },
+                {
+                    "en": "television",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "телевиз"
+                },
+                {
+                    "en": "doctor",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "эмч"
+                },
+                {
+                    "en": "culture",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "соёл"
+                },
+                {
+                    "en": "bye",
+                    "turul": "exclam.",
+                    "level": "A1",
+                    "mn": "баяртай"
+                },
+                {
+                    "en": "feel",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "мэдрэх, мэдрэмж"
+                },
+                {
+                    "en": "light",
+                    "turul": "n., adj., v.",
+                    "level": "A1",
+                    "mn": "гэрэл, хөнгөн, гэрэлтүүлэх"
+                },
+                {
+                    "en": "natural",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "байгалийн"
+                },
+                {
+                    "en": "sea",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "далай"
+                },
+                {
+                    "en": "welcome",
+                    "turul": "exclam./v./adj./n.",
+                    "level": "A1",
+                    "mn": "тавтай морил, угтах, зочин"
+                },
+                {
+                    "en": "tonight",
+                    "turul": "adv., n.",
+                    "level": "A1",
+                    "mn": "өнөө орой"
+                },
+                {
+                    "en": "do",
+                    "turul": "v., auxiliary v.",
+                    "level": "A1",
+                    "mn": "хийх"
+                },
+                {
+                    "en": "form",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "форма, бүртгүүлэх"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 12",
+            "items": [
+                {
+                    "en": "beginning",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "эхлэл"
+                },
+                {
+                    "en": "umbrella",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "шүхэр"
+                },
+                {
+                    "en": "machine",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "машин"
+                },
+                {
+                    "en": "sad",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "уйтгар, гунигтай"
+                },
+                {
+                    "en": "page",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хуудас"
+                },
+                {
+                    "en": "keep",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "хадгалах, барих"
+                },
+                {
+                    "en": "run",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "унах, гүйх, гүйлт"
+                },
+                {
+                    "en": "favourite",
+                    "turul": "adj., n.",
+                    "level": "A1",
+                    "mn": "хамгийн дуртай"
+                },
+                {
+                    "en": "restaurant",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "ресторан"
+                },
+                {
+                    "en": "sister",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "эгч, дүү"
+                },
+                {
+                    "en": "lot",
+                    "turul": "pron., det., adv.",
+                    "level": "A1",
+                    "mn": "олон, маш их"
+                },
+                {
+                    "en": "pen",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "бал"
+                },
+                {
+                    "en": "actor",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "жүжигчин"
+                },
+                {
+                    "en": "DVD",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "DVD"
+                },
+                {
+                    "en": "meet",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "уулзах"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 13",
+            "items": [
+                {
+                    "en": "fine",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "сайн, сайн чанарын"
+                },
+                {
+                    "en": "farmer",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "фермийн эзэн, тариачин"
+                },
+                {
+                    "en": "want",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "хүсэх"
+                },
+                {
+                    "en": "diet",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хоолны дэглэм"
+                },
+                {
+                    "en": "prepare",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "бэлдэх"
+                },
+                {
+                    "en": "street",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "гудамж"
+                },
+                {
+                    "en": "girlfriend",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "найз охин"
+                },
+                {
+                    "en": "door",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хаалга"
+                },
+                {
+                    "en": "century",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "зууны, 100 жил"
+                },
+                {
+                    "en": "my",
+                    "turul": "det.",
+                    "level": "A1",
+                    "mn": "миний"
+                },
+                {
+                    "en": "October",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "арваннэгдүгээр сар"
+                },
+                {
+                    "en": "large",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "том"
+                },
+                {
+                    "en": "which",
+                    "turul": "pron./det.",
+                    "level": "A1",
+                    "mn": "аль"
+                },
+                {
+                    "en": "nurse",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "эмч, сувилагч"
+                },
+                {
+                    "en": "free",
+                    "turul": "adj., adv., v.",
+                    "level": "A1",
+                    "mn": "чөлөөтэй, чөлөөлөх"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 14",
+            "items": [
+                {
+                    "en": "please",
+                    "turul": "exclam., v.",
+                    "level": "A1",
+                    "mn": "таалагдах, гуйх"
+                },
+                {
+                    "en": "know",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "мэдэх"
+                },
+                {
+                    "en": "a, an",
+                    "turul": "indefinite article",
+                    "level": "A1",
+                    "mn": "тодорхой бус артикль"
+                },
+                {
+                    "en": "online",
+                    "turul": "adj., adv.",
+                    "level": "A1",
+                    "mn": "онлайн"
+                },
+                {
+                    "en": "very",
+                    "turul": "adv./adj.",
+                    "level": "A1",
+                    "mn": "маш, үнэхээр"
+                },
+                {
+                    "en": "always",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "үргэлж"
+                },
+                {
+                    "en": "kilometre",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "километр"
+                },
+                {
+                    "en": "each",
+                    "turul": "det./pron./adv.",
+                    "level": "A1",
+                    "mn": "бүгд, бүр, аль нь ч"
+                },
+                {
+                    "en": "sometimes",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "заримдаа"
+                },
+                {
+                    "en": "example",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "жишээ"
+                },
+                {
+                    "en": "delicious",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "амттай"
+                },
+                {
+                    "en": "pepper",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "перц"
+                },
+                {
+                    "en": "sugar",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "чихэр"
+                },
+                {
+                    "en": "topic",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "сэдэв"
+                },
+                {
+                    "en": "cake",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "бялуу"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 15",
+            "items": [
+                {
+                    "en": "Monday",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "Даваа гараг"
+                },
+                {
+                    "en": "night",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "шөнө"
+                },
+                {
+                    "en": "section",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хэсэг"
+                },
+                {
+                    "en": "December",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "Арванхоёрдугаар сар"
+                },
+                {
+                    "en": "same",
+                    "turul": "adj., pron., adv.",
+                    "level": "A1",
+                    "mn": "төгс ижил, нэг"
+                },
+                {
+                    "en": "telephone",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "утас, утасдах"
+                },
+                {
+                    "en": "nice",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "сайхан"
+                },
+                {
+                    "en": "hear",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "сонсох"
+                },
+                {
+                    "en": "thirsty",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "цангаасан"
+                },
+                {
+                    "en": "guess",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "таах, таамаг"
+                },
+                {
+                    "en": "head",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "толгой, удирдах"
+                },
+                {
+                    "en": "first",
+                    "turul": "det./number, adv., n.",
+                    "level": "A1",
+                    "mn": "эхний"
+                },
+                {
+                    "en": "present",
+                    "turul": "adj., n., v.",
+                    "level": "A1",
+                    "mn": "одоо, бэлэг, өгөх"
+                },
+                {
+                    "en": "teenager",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хүүхэд"
+                },
+                {
+                    "en": "however",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "гэвч"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 16",
+            "items": [
+                {
+                    "en": "him",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "тэр, эрэгтэй"
+                },
+                {
+                    "en": "wear",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": " өмсөх"
+                },
+                {
+                    "en": "for",
+                    "turul": "prep.",
+                    "level": "A1",
+                    "mn": "талаар, …ийн тулд"
+                },
+                {
+                    "en": "meal",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хоол"
+                },
+                {
+                    "en": "something",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "юу нэгэн зүйл"
+                },
+                {
+                    "en": "strong",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "хүчтэй"
+                },
+                {
+                    "en": "egg",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "өндөг"
+                },
+                {
+                    "en": "common",
+                    "turul": "adj., n.",
+                    "level": "A1",
+                    "mn": "нийтлэг, энгийн; нийтийн талбай"
+                },
+                {
+                    "en": "wine",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "вино"
+                },
+                {
+                    "en": "class",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "анги, зэрэг"
+                },
+                {
+                    "en": "twenty",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "хорь"
+                },
+                {
+                    "en": "friendly",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "найрсаг"
+                },
+                {
+                    "en": "pay",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "төлөх, цалин"
+                },
+                {
+                    "en": "across",
+                    "turul": "prep., adv.",
+                    "level": "A1",
+                    "mn": "нөгөө талд, хөндлөн"
+                },
+                {
+                    "en": "daughter",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "охин"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 17",
+            "items": [
+                {
+                    "en": "sheep",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хонь"
+                },
+                {
+                    "en": "decide",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "шийдэх"
+                },
+                {
+                    "en": "eight",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "найм"
+                },
+                {
+                    "en": "July",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "7-р сар"
+                },
+                {
+                    "en": "our",
+                    "turul": "det.",
+                    "level": "A1",
+                    "mn": "манай"
+                },
+                {
+                    "en": "bathroom",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "угаалгын өрөө"
+                },
+                {
+                    "en": "away",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "хол, зайтай"
+                },
+                {
+                    "en": "no one",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "хэн ч үгүй"
+                },
+                {
+                    "en": "another",
+                    "turul": "det./pron.",
+                    "level": "A1",
+                    "mn": "өөр, дахин нэг"
+                },
+                {
+                    "en": "statement",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "тунхаг, мэдэгдэл"
+                },
+                {
+                    "en": "will",
+                    "turul": "modal v./n.",
+                    "level": "A1",
+                    "mn": "хийнэ, хүсэл"
+                },
+                {
+                    "en": "spend",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "зардал гаргах"
+                },
+                {
+                    "en": "next",
+                    "turul": "adj., adv., n.",
+                    "level": "A1",
+                    "mn": "дараагийн, дараа нь"
+                },
+                {
+                    "en": "every",
+                    "turul": "det.",
+                    "level": "A1",
+                    "mn": "бүгд"
+                },
+                {
+                    "en": "pair",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хос"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 18",
+            "items": [
+                {
+                    "en": "into",
+                    "turul": "prep.",
+                    "level": "A1",
+                    "mn": "-руу"
+                },
+                {
+                    "en": "twice",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "хоёр удаа"
+                },
+                {
+                    "en": "area",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "талбай, бүс нутаг"
+                },
+                {
+                    "en": "warm",
+                    "turul": "adj./v.",
+                    "level": "A1",
+                    "mn": "дулаан, халаах"
+                },
+                {
+                    "en": "idea",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "санаа"
+                },
+                {
+                    "en": "Thursday",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "пүрэв гараг"
+                },
+                {
+                    "en": "museum",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "музей"
+                },
+                {
+                    "en": "again",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "дахин"
+                },
+                {
+                    "en": "word",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "үг"
+                },
+                {
+                    "en": "pink",
+                    "turul": "adj., n.",
+                    "level": "A1",
+                    "mn": "ялгамшийн, ягаан"
+                },
+                {
+                    "en": "change",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "өөрчлөх, өөрчлөлт; мөнгө задлах"
+                },
+                {
+                    "en": "dialogue",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "яриа"
+                },
+                {
+                    "en": "short",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "богино"
+                },
+                {
+                    "en": "piano",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "пиано"
+                },
+                {
+                    "en": "reason",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "шалтгаан"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 19",
+            "items": [
+                {
+                    "en": "then",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "тэгээд, дараа нь"
+                },
+                {
+                    "en": "toilet",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "жорлон"
+                },
+                {
+                    "en": "below",
+                    "turul": "adv., prep.",
+                    "level": "A1",
+                    "mn": "доор, доош"
+                },
+                {
+                    "en": "clock",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "цаг"
+                },
+                {
+                    "en": "full",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "бүрэн, дүүрэн"
+                },
+                {
+                    "en": "player",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "тоглогч"
+                },
+                {
+                    "en": "move",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "хөдөлгөөн, хөдөлгөх"
+                },
+                {
+                    "en": "writer",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "зохиолч"
+                },
+                {
+                    "en": "often",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "ихэвчлэн"
+                },
+                {
+                    "en": "paint",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "зурах, будаг"
+                },
+                {
+                    "en": "local",
+                    "turul": "adj., n.",
+                    "level": "A1",
+                    "mn": "орон нутгийн, нутгийн хүн"
+                },
+                {
+                    "en": "green",
+                    "turul": "adj., n.",
+                    "level": "A1",
+                    "mn": "ногоон"
+                },
+                {
+                    "en": "four",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "дөрөв"
+                },
+                {
+                    "en": "busy",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "завгүй"
+                },
+                {
+                    "en": "style",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хэв маяг, стиль"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 20",
+            "items": [
+                {
+                    "en": "downstairs",
+                    "turul": "adv., adj.",
+                    "level": "A1",
+                    "mn": "доороо, доор байрлах"
+                },
+                {
+                    "en": "yeah",
+                    "turul": "exclam.",
+                    "level": "A1",
+                    "mn": "тийм"
+                },
+                {
+                    "en": "son",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хүү"
+                },
+                {
+                    "en": "bring",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "авчрах"
+                },
+                {
+                    "en": "story",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "түүх, өгүүллэг"
+                },
+                {
+                    "en": "dancing",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "бүжиглэх явц"
+                },
+                {
+                    "en": "room",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "өрөө"
+                },
+                {
+                    "en": "uncle",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "ах, өвөө"
+                },
+                {
+                    "en": "o’clock",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "цаг"
+                },
+                {
+                    "en": "east",
+                    "turul": "n., adj., adv.",
+                    "level": "A1",
+                    "mn": "дорнод, зүг, дорно"
+                },
+                {
+                    "en": "language",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хэл"
+                },
+                {
+                    "en": "hobby",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "сонирхол"
+                },
+                {
+                    "en": "left",
+                    "turul": "adj., adv., n.",
+                    "level": "A1",
+                    "mn": "зүүн, үлдсэн"
+                },
+                {
+                    "en": "year",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "жил"
+                },
+                {
+                    "en": "dark",
+                    "turul": "adj., n.",
+                    "level": "A1",
+                    "mn": "харуй, харанхуй"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 21",
+            "items": [
+                {
+                    "en": "test",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "шалгалт, шалгах"
+                },
+                {
+                    "en": "too",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "ч бас"
+                },
+                {
+                    "en": "thanks",
+                    "turul": "exclam., n.",
+                    "level": "A1",
+                    "mn": "баярлалаа"
+                },
+                {
+                    "en": "wall",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "ханын"
+                },
+                {
+                    "en": "someone",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "хэн нэгэн"
+                },
+                {
+                    "en": "only",
+                    "turul": "adj., adv.",
+                    "level": "A1",
+                    "mn": "зөвхөн, ганц"
+                },
+                {
+                    "en": "close¹",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "хаах; хаалт, төгсгөл"
+                },
+                {
+                    "en": "design",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "дизайн, зохион бүтээх"
+                },
+                {
+                    "en": "bed",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "ор"
+                },
+                {
+                    "en": "sun",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "нар"
+                },
+                {
+                    "en": "else",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "бусад"
+                },
+                {
+                    "en": "have to",
+                    "turul": "modal v.",
+                    "level": "A1",
+                    "mn": "заавал хийх"
+                },
+                {
+                    "en": "than",
+                    "turul": "conj.",
+                    "level": "A1",
+                    "mn": "харьцуулахад"
+                },
+                {
+                    "en": "snake",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "могой"
+                },
+                {
+                    "en": "final",
+                    "turul": "adj., n.",
+                    "level": "A1",
+                    "mn": "сүүлчийн, эцсийн"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 22",
+            "items": [
+                {
+                    "en": "pig",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "гахай"
+                },
+                {
+                    "en": "lion",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "арслан"
+                },
+                {
+                    "en": "dollar",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "доллар"
+                },
+                {
+                    "en": "garden",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "цэцэрлэгт талбай"
+                },
+                {
+                    "en": "imagine",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "төсөөлөх"
+                },
+                {
+                    "en": "lunch",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хоолны завсарлага"
+                },
+                {
+                    "en": "main",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "гол"
+                },
+                {
+                    "en": "happy",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "аз жаргалтай"
+                },
+                {
+                    "en": "colour",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "өнгө"
+                },
+                {
+                    "en": "not",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "үгүй"
+                },
+                {
+                    "en": "water",
+                    "turul": "n./v.",
+                    "level": "A1",
+                    "mn": "ус, услах"
+                },
+                {
+                    "en": "apartment",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "орон сууц, байр"
+                },
+                {
+                    "en": "so",
+                    "turul": "adv., conj.",
+                    "level": "A1",
+                    "mn": "тэгээд, иймээс"
+                },
+                {
+                    "en": "pretty",
+                    "turul": "adj., adv.",
+                    "level": "A1",
+                    "mn": "гоё, үнэхээр"
+                },
+                {
+                    "en": "milk",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "сүү"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 23",
+            "items": [
+                {
+                    "en": "future",
+                    "turul": "n., adj.",
+                    "level": "A1",
+                    "mn": "ирээдүй, ирээдүйн"
+                },
+                {
+                    "en": "history",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "түүх"
+                },
+                {
+                    "en": "model",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "загвар, загварлах"
+                },
+                {
+                    "en": "early",
+                    "turul": "adj., adv.",
+                    "level": "A1",
+                    "mn": "эрт, эртхэн"
+                },
+                {
+                    "en": "menu",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "цэс"
+                },
+                {
+                    "en": "film",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "кино, кино хийх"
+                },
+                {
+                    "en": "read",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "унших"
+                },
+                {
+                    "en": "gym",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "спорт заал"
+                },
+                {
+                    "en": "outside",
+                    "turul": "adv., prep., n., adj.",
+                    "level": "A1",
+                    "mn": "гадаа, гаднах"
+                },
+                {
+                    "en": "easy",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "амархан"
+                },
+                {
+                    "en": "flat",
+                    "turul": "n., adj.",
+                    "level": "A1",
+                    "mn": "орон сууц, хавтгай"
+                },
+                {
+                    "en": "onion",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "сонгино"
+                },
+                {
+                    "en": "buy",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "худалдан авах"
+                },
+                {
+                    "en": "prefer",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "илүүд үзэх"
+                },
+                {
+                    "en": "married",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "гэрлэсэн"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 24",
+            "items": [
+                {
+                    "en": "you",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "чи, та"
+                },
+                {
+                    "en": "similar",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "адил"
+                },
+                {
+                    "en": "practise",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "дарах"
+                },
+                {
+                    "en": "sandwich",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "сэндвич"
+                },
+                {
+                    "en": "hard",
+                    "turul": "adj., adv.",
+                    "level": "A1",
+                    "mn": "хатуу, хүнд"
+                },
+                {
+                    "en": "Tuesday",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "Мягмар гараг"
+                },
+                {
+                    "en": "today",
+                    "turul": "adv., n.",
+                    "level": "A1",
+                    "mn": "өнөөдөр"
+                },
+                {
+                    "en": "ball",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "бөмбөг"
+                },
+                {
+                    "en": "never",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "хэзээ ч"
+                },
+                {
+                    "en": "taxi",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "такси"
+                },
+                {
+                    "en": "air",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "агаар"
+                },
+                {
+                    "en": "hope",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "найдах, найдлага"
+                },
+                {
+                    "en": "vegetable",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "ногоо"
+                },
+                {
+                    "en": "last1",
+                    "turul": "det., adv., n.",
+                    "level": "A1",
+                    "mn": "сүүлийн, эцсийн"
+                },
+                {
+                    "en": "boat",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "завь"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 25",
+            "items": [
+                {
+                    "en": "hungry",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "ойргүй, өлссөн"
+                },
+                {
+                    "en": "with",
+                    "turul": "prep.",
+                    "level": "A1",
+                    "mn": "~тай"
+                },
+                {
+                    "en": "make",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "хийх, бүтээл"
+                },
+                {
+                    "en": "quiet",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "нам гүм"
+                },
+                {
+                    "en": "red",
+                    "turul": "adj., n.",
+                    "level": "A1",
+                    "mn": "улаан"
+                },
+                {
+                    "en": "need",
+                    "turul": "v., n., modal v.",
+                    "level": "A1",
+                    "mn": "хэрэгтэй байх, хэрэгцээ"
+                },
+                {
+                    "en": "body",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "бие"
+                },
+                {
+                    "en": "airport",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "нисэх онгоцны буудал"
+                },
+                {
+                    "en": "live1",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "амьдрах"
+                },
+                {
+                    "en": "lesson",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "сургалтын хичээл"
+                },
+                {
+                    "en": "movie",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "кино"
+                },
+                {
+                    "en": "important",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "чухал"
+                },
+                {
+                    "en": "minute1",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "минут"
+                },
+                {
+                    "en": "date",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "огноо, болзоо/тогтоох"
+                },
+                {
+                    "en": "useful",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "ажил хэрэгтэй"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 26",
+            "items": [
+                {
+                    "en": "get",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "авах, хүрэх"
+                },
+                {
+                    "en": "seven",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "долоо"
+                },
+                {
+                    "en": "weather",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "цаг агаар"
+                },
+                {
+                    "en": "house",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "гэр, эзэмших"
+                },
+                {
+                    "en": "March",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "гучдугаар сар"
+                },
+                {
+                    "en": "cooking",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хоол хийх үйл явц"
+                },
+                {
+                    "en": "them",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "тэднийг"
+                },
+                {
+                    "en": "late",
+                    "turul": "adj., adv.",
+                    "level": "A1",
+                    "mn": "сүүлийн, хоцорсон"
+                },
+                {
+                    "en": "one",
+                    "turul": "number/det., pron.",
+                    "level": "A1",
+                    "mn": "нэг"
+                },
+                {
+                    "en": "second1",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "секунд"
+                },
+                {
+                    "en": "orange",
+                    "turul": "n., adj.",
+                    "level": "A1",
+                    "mn": "улаан шар, жүрж"
+                },
+                {
+                    "en": "false",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "хуурмаг, буруу"
+                },
+                {
+                    "en": "far",
+                    "turul": "adv., adj.",
+                    "level": "A1",
+                    "mn": "хол, холын"
+                },
+                {
+                    "en": "grow",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "ургах, өсгөх"
+                },
+                {
+                    "en": "million",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "сая"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 27",
+            "items": [
+                {
+                    "en": "river",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "гол"
+                },
+                {
+                    "en": "May",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "төвөд"
+                },
+                {
+                    "en": "tooth",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "шүд"
+                },
+                {
+                    "en": "ninety",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "ерэн"
+                },
+                {
+                    "en": "everybody",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "бүх хүн"
+                },
+                {
+                    "en": "seventeen",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "арван долоо"
+                },
+                {
+                    "en": "video",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "видео"
+                },
+                {
+                    "en": "and",
+                    "turul": "conj.",
+                    "level": "A1",
+                    "mn": "ба, болон"
+                },
+                {
+                    "en": "me",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "намайг"
+                },
+                {
+                    "en": "club",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "клуб, бүлгэм"
+                },
+                {
+                    "en": "internet",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "интернэт"
+                },
+                {
+                    "en": "could",
+                    "turul": "modal v.",
+                    "level": "A1",
+                    "mn": "чадсан, боломжтой байсан"
+                },
+                {
+                    "en": "he",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "тэр, эрэгтэй"
+                },
+                {
+                    "en": "university",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "их сургууль"
+                },
+                {
+                    "en": "seventy",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "далан"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 28",
+            "items": [
+                {
+                    "en": "box",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хайрцаг"
+                },
+                {
+                    "en": "most",
+                    "turul": "det./pron., adv.",
+                    "level": "A1",
+                    "mn": "ихэнх"
+                },
+                {
+                    "en": "aunt",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "авга, эгч, нагац эгч"
+                },
+                {
+                    "en": "drive",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "удаах, жолоодох"
+                },
+                {
+                    "en": "CD",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "компакт диск"
+                },
+                {
+                    "en": "listen",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "сонсох"
+                },
+                {
+                    "en": "her",
+                    "turul": "pron., det.",
+                    "level": "A1",
+                    "mn": "тэр, эмэгтэй"
+                },
+                {
+                    "en": "say",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "хэлэх"
+                },
+                {
+                    "en": "weekend",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "амралтын өдөр"
+                },
+                {
+                    "en": "article",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "өгүүлэл, зүйл"
+                },
+                {
+                    "en": "why",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "яагаад"
+                },
+                {
+                    "en": "camera",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "камер, гэрэл зураг"
+                },
+                {
+                    "en": "college",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "коллеж, дээд сургууль"
+                },
+                {
+                    "en": "black",
+                    "turul": "adj., n.",
+                    "level": "A1",
+                    "mn": "хар; хар өнгө"
+                },
+                {
+                    "en": "land",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "газар, газардах"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 29",
+            "items": [
+                {
+                    "en": "eleven",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "арван нэг"
+                },
+                {
+                    "en": "summer",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "зун"
+                },
+                {
+                    "en": "singer",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "дуучин"
+                },
+                {
+                    "en": "its",
+                    "turul": "det.",
+                    "level": "A1",
+                    "mn": "тэрийн"
+                },
+                {
+                    "en": "shopping",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "худалдаа хийх"
+                },
+                {
+                    "en": "animal",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "амьтан"
+                },
+                {
+                    "en": "meaning",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "утга"
+                },
+                {
+                    "en": "thank",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "талархах"
+                },
+                {
+                    "en": "Friday",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "Баасан гараг"
+                },
+                {
+                    "en": "fourth",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "дөрөв дэх"
+                },
+                {
+                    "en": "table",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "ширээ"
+                },
+                {
+                    "en": "build",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "барих"
+                },
+                {
+                    "en": "career",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "мэргэжил, ажил мэргэжлийн замнал"
+                },
+                {
+                    "en": "rain",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "бороо, бороох"
+                },
+                {
+                    "en": "now",
+                    "turul": "adv., conj.",
+                    "level": "A1",
+                    "mn": "одоо, одоо бол"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 30",
+            "items": [
+                {
+                    "en": "wife",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "нөхөртөө эмэгтэй"
+                },
+                {
+                    "en": "grandmother",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "эмээ"
+                },
+                {
+                    "en": "around",
+                    "turul": "prep., adv.",
+                    "level": "A1",
+                    "mn": "эргэн тойрон, орчим"
+                },
+                {
+                    "en": "bored",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "уйдсан"
+                },
+                {
+                    "en": "teacher",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "багш"
+                },
+                {
+                    "en": "rich",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "ядуу биш, баян"
+                },
+                {
+                    "en": "give",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "өгөх"
+                },
+                {
+                    "en": "quick",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "хурдан"
+                },
+                {
+                    "en": "father",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "эцэг"
+                },
+                {
+                    "en": "anything",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "ямар нэг зүйл"
+                },
+                {
+                    "en": "period",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хугацаа"
+                },
+                {
+                    "en": "if",
+                    "turul": "conj.",
+                    "level": "A1",
+                    "mn": "хэрэв"
+                },
+                {
+                    "en": "his",
+                    "turul": "det., pron.",
+                    "level": "A1",
+                    "mn": "тэрийн, эрэгтэй"
+                },
+                {
+                    "en": "own",
+                    "turul": "adj./pron., v.",
+                    "level": "A1",
+                    "mn": "өөрийн, эзэмших"
+                },
+                {
+                    "en": "famous",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "алдартай"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 31",
+            "items": [
+                {
+                    "en": "husband",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "эхнэрийн нөхөр"
+                },
+                {
+                    "en": "month",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "сар"
+                },
+                {
+                    "en": "key",
+                    "turul": "n., adj., v.",
+                    "level": "A1",
+                    "mn": "түлхүүр, гол, оруулах"
+                },
+                {
+                    "en": "believe",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "итгэх"
+                },
+                {
+                    "en": "drink",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "унаа, уух"
+                },
+                {
+                    "en": "flight",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "нислэг"
+                },
+                {
+                    "en": "some",
+                    "turul": "det., pron.",
+                    "level": "A1",
+                    "mn": "зарим"
+                },
+                {
+                    "en": "white",
+                    "turul": "adj./n.",
+                    "level": "A1",
+                    "mn": "цагаан"
+                },
+                {
+                    "en": "apple",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "алим"
+                },
+                {
+                    "en": "write",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "бичих"
+                },
+                {
+                    "en": "student",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "сурагч"
+                },
+                {
+                    "en": "cold",
+                    "turul": "adj., n.",
+                    "level": "A1",
+                    "mn": "хүйтэн; ханиад"
+                },
+                {
+                    "en": "cinema",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "кино театр"
+                },
+                {
+                    "en": "job",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "ажил"
+                },
+                {
+                    "en": "your",
+                    "turul": "det.",
+                    "level": "A1",
+                    "mn": "таны, чиний"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 32",
+            "items": [
+                {
+                    "en": "fact",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "баримт, үнэний зүйл"
+                },
+                {
+                    "en": "when",
+                    "turul": "adv./pron./conj.",
+                    "level": "A1",
+                    "mn": "хэзээ"
+                },
+                {
+                    "en": "hat",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "малгай"
+                },
+                {
+                    "en": "report",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "тайлан, мэдээлэх"
+                },
+                {
+                    "en": "driver",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "жолооч"
+                },
+                {
+                    "en": "radio",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "радио"
+                },
+                {
+                    "en": "website",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "вэб сайт"
+                },
+                {
+                    "en": "November",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "арваннэгдүгээр сар"
+                },
+                {
+                    "en": "reader",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "уншигч"
+                },
+                {
+                    "en": "fantastic",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "гайхалтай"
+                },
+                {
+                    "en": "family",
+                    "turul": "n., adj.",
+                    "level": "A1",
+                    "mn": "гэр бүл, гэр бүлийн"
+                },
+                {
+                    "en": "cat",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "муур"
+                },
+                {
+                    "en": "breakfast",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "өглөөний цай"
+                },
+                {
+                    "en": "use",
+                    "turul": "v./n.",
+                    "level": "A1",
+                    "mn": "ашиглах, хэрэглэх"
+                },
+                {
+                    "en": "few",
+                    "turul": "det./adj., pron.",
+                    "level": "A1",
+                    "mn": "цөөхөн"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 33",
+            "items": [
+                {
+                    "en": "much",
+                    "turul": "det./pron., adv.",
+                    "level": "A1",
+                    "mn": "их"
+                },
+                {
+                    "en": "mouse",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хулгана"
+                },
+                {
+                    "en": "news",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "мэдээ"
+                },
+                {
+                    "en": "join",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "нэгдэх"
+                },
+                {
+                    "en": "miss",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "санах, үүрэгтээ ирээгүй байх"
+                },
+                {
+                    "en": "above",
+                    "turul": "prep., adv.",
+                    "level": "A1",
+                    "mn": "дээр"
+                },
+                {
+                    "en": "think",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "бодох"
+                },
+                {
+                    "en": "banana",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "гадил"
+                },
+                {
+                    "en": "police",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "цагдаа"
+                },
+                {
+                    "en": "love",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "хайр, хайрлах"
+                },
+                {
+                    "en": "mountain",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "уул"
+                },
+                {
+                    "en": "phrase",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "үг хэллэг"
+                },
+                {
+                    "en": "ready",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "бэлэн"
+                },
+                {
+                    "en": "game",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "тоглоом"
+                },
+                {
+                    "en": "angry",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "ууртай"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 34",
+            "items": [
+                {
+                    "en": "man",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "эрэгтэй хүн"
+                },
+                {
+                    "en": "email",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "имэйл"
+                },
+                {
+                    "en": "yes",
+                    "turul": "exclam.",
+                    "level": "A1",
+                    "mn": "тийм"
+                },
+                {
+                    "en": "people",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хүмүүс"
+                },
+                {
+                    "en": "hundred",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "зуу"
+                },
+                {
+                    "en": "come",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "ирэх"
+                },
+                {
+                    "en": "become",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "болох, хувирах"
+                },
+                {
+                    "en": "send",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "илгээх"
+                },
+                {
+                    "en": "both",
+                    "turul": "det./pron.",
+                    "level": "A1",
+                    "mn": "хоёул, аль аль нь"
+                },
+                {
+                    "en": "letter",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "зорилт, захидал"
+                },
+                {
+                    "en": "ticket",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "тасалбар"
+                },
+                {
+                    "en": "eighteen",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "арван найм"
+                },
+                {
+                    "en": "music",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "музик"
+                },
+                {
+                    "en": "island",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "арлын газар"
+                },
+                {
+                    "en": "break",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "хугалах, эвдэх; завсарлага"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 35",
+            "items": [
+                {
+                    "en": "exercise",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "дасгал хийх"
+                },
+                {
+                    "en": "afraid",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "айсан"
+                },
+                {
+                    "en": "introduce",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "танилцуулах"
+                },
+                {
+                    "en": "exciting",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "сэтгэл хөдөлгөсөн"
+                },
+                {
+                    "en": "quarter",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "уламжлал, дөрөвний нэг"
+                },
+                {
+                    "en": "ten",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "арав"
+                },
+                {
+                    "en": "agree",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "зөвшөөрөх, санал нийлэх"
+                },
+                {
+                    "en": "boring",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "уйтгартай"
+                },
+                {
+                    "en": "teach",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "заах"
+                },
+                {
+                    "en": "shop",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "дэлгүүр, худалдах"
+                },
+                {
+                    "en": "fifteen",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "арван тав"
+                },
+                {
+                    "en": "should",
+                    "turul": "modal v.",
+                    "level": "A1",
+                    "mn": "хэрэгтэй, хэрэгтэй байх"
+                },
+                {
+                    "en": "cool",
+                    "turul": "adj., v.",
+                    "level": "A1",
+                    "mn": "сэрүүн; хөргөх"
+                },
+                {
+                    "en": "without",
+                    "turul": "prep.",
+                    "level": "A1",
+                    "mn": "~гүйгээр"
+                },
+                {
+                    "en": "show",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "үзүүлэх, үзүүлэлт"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 36",
+            "items": [
+                {
+                    "en": "perfect",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "төгс"
+                },
+                {
+                    "en": "girl",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "охин"
+                },
+                {
+                    "en": "event",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "үйл явдал"
+                },
+                {
+                    "en": "butter",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "цөцгийн тос"
+                },
+                {
+                    "en": "blog",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "блог"
+                },
+                {
+                    "en": "bicycle",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "дугуй"
+                },
+                {
+                    "en": "six",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "зургаа"
+                },
+                {
+                    "en": "mum",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "ээж"
+                },
+                {
+                    "en": "have",
+                    "turul": "v., auxiliary v.",
+                    "level": "A1",
+                    "mn": "байх, хэрэглэх"
+                },
+                {
+                    "en": "relax",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "амрах"
+                },
+                {
+                    "en": "lose",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "алдах"
+                },
+                {
+                    "en": "post",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "шуудан, байрлуулах"
+                },
+                {
+                    "en": "new",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "шинэ"
+                },
+                {
+                    "en": "fifth",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "тав дахь"
+                },
+                {
+                    "en": "practice",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "даралт"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 37",
+            "items": [
+                {
+                    "en": "correct",
+                    "turul": "adj., v.",
+                    "level": "A1",
+                    "mn": "зөв, оновчтой; засах, залруулах"
+                },
+                {
+                    "en": "improve",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "сайжруулах"
+                },
+                {
+                    "en": "include",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "оруулах"
+                },
+                {
+                    "en": "salt",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "давс"
+                },
+                {
+                    "en": "fly",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "нисэх, нислэг"
+                },
+                {
+                    "en": "situation",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "нөхцөл байдал"
+                },
+                {
+                    "en": "maybe",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "магадгүй"
+                },
+                {
+                    "en": "soon",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "удахгүй"
+                },
+                {
+                    "en": "look",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "харах, харагдах байдал"
+                },
+                {
+                    "en": "soup",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "шөл"
+                },
+                {
+                    "en": "bird",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "шувуу"
+                },
+                {
+                    "en": "sit",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "суух"
+                },
+                {
+                    "en": "tourist",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "жуулчин"
+                },
+                {
+                    "en": "point",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "цэг, заах"
+                },
+                {
+                    "en": "computer",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "компьютер"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 38",
+            "items": [
+                {
+                    "en": "eat",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "идэх"
+                },
+                {
+                    "en": "partner",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "түнш"
+                },
+                {
+                    "en": "next to",
+                    "turul": "prep.",
+                    "level": "A1",
+                    "mn": "хажууд"
+                },
+                {
+                    "en": "there",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "тэнд"
+                },
+                {
+                    "en": "place",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "газар, байрлуулах"
+                },
+                {
+                    "en": "other",
+                    "turul": "adj./pron.",
+                    "level": "A1",
+                    "mn": "өөр, бусад"
+                },
+                {
+                    "en": "finish",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "дуусгах, төгсгөл"
+                },
+                {
+                    "en": "Sunday",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "ням гараг"
+                },
+                {
+                    "en": "picture",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "зураг, дүрслэх"
+                },
+                {
+                    "en": "laugh",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "инээх, инээд"
+                },
+                {
+                    "en": "personal",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "хувийн"
+                },
+                {
+                    "en": "pencil",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "харандаа"
+                },
+                {
+                    "en": "moment",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хором"
+                },
+                {
+                    "en": "near",
+                    "turul": "prep., adj., adv.",
+                    "level": "A1",
+                    "mn": "ойр, ойртсон"
+                },
+                {
+                    "en": "blue",
+                    "turul": "adj., n.",
+                    "level": "A1",
+                    "mn": "цэнхэр; цэнхэр өнгө"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 39",
+            "items": [
+                {
+                    "en": "bus",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "автобус"
+                },
+                {
+                    "en": "afternoon",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "өдөр, үдээс хойш"
+                },
+                {
+                    "en": "mistake",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "алдаа, алдах"
+                },
+                {
+                    "en": "off",
+                    "turul": "adv., prep.",
+                    "level": "A1",
+                    "mn": "алга, хол"
+                },
+                {
+                    "en": "car",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "машин"
+                },
+                {
+                    "en": "thirteen",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "гурван арван"
+                },
+                {
+                    "en": "speak",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "ярилцах"
+                },
+                {
+                    "en": "to",
+                    "turul": "prep., infinitive marker",
+                    "level": "A1",
+                    "mn": "руу, хийхийн тулд"
+                },
+                {
+                    "en": "question",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "асуулт, асуух"
+                },
+                {
+                    "en": "hello",
+                    "turul": "exclam./n.",
+                    "level": "A1",
+                    "mn": "сайн уу"
+                },
+                {
+                    "en": "happen",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "болох"
+                },
+                {
+                    "en": "twelve",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "арван хоёр"
+                },
+                {
+                    "en": "even",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "тэгш, бүр"
+                },
+                {
+                    "en": "geography",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "географи"
+                },
+                {
+                    "en": "thousand",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "мянга"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 40",
+            "items": [
+                {
+                    "en": "young",
+                    "turul": "adj./n.",
+                    "level": "A1",
+                    "mn": "залуу, залуу хүн"
+                },
+                {
+                    "en": "eighty",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "наян"
+                },
+                {
+                    "en": "homework",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "гэрийн даалгавар"
+                },
+                {
+                    "en": "dress",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "хувцас, хувцаслах"
+                },
+                {
+                    "en": "beach",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "далайн эрэг"
+                },
+                {
+                    "en": "leg",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хөл"
+                },
+                {
+                    "en": "put",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "тавих"
+                },
+                {
+                    "en": "project",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "төсөл, төлөвлөх"
+                },
+                {
+                    "en": "funny",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "инээдтэй"
+                },
+                {
+                    "en": "parent",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "эцэг эх"
+                },
+                {
+                    "en": "sell",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "зарж борлуулах"
+                },
+                {
+                    "en": "sweater",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "свитер"
+                },
+                {
+                    "en": "nothing",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "ямар ч зүйл"
+                },
+                {
+                    "en": "what",
+                    "turul": "pron./det.",
+                    "level": "A1",
+                    "mn": "юу"
+                },
+                {
+                    "en": "world",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "дэлхий"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 41",
+            "items": [
+                {
+                    "en": "June",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "6-р сар"
+                },
+                {
+                    "en": "school",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "сургууль"
+                },
+                {
+                    "en": "clothes",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хувцас"
+                },
+                {
+                    "en": "desk",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "ширээ"
+                },
+                {
+                    "en": "order",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "захиалга, захиалах"
+                },
+                {
+                    "en": "nobody",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "хэн ч үгүй"
+                },
+                {
+                    "en": "August",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "наймдугаар сар"
+                },
+                {
+                    "en": "line",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "шугам, шугам татах"
+                },
+                {
+                    "en": "city",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хот"
+                },
+                {
+                    "en": "boot",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "гутал, түрийтэй гутал"
+                },
+                {
+                    "en": "negative",
+                    "turul": "adj., n.",
+                    "level": "A1",
+                    "mn": "сөрөг, сөрөг зүйл"
+                },
+                {
+                    "en": "different",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "онцлог"
+                },
+                {
+                    "en": "call",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "дуудах; дуудлага"
+                },
+                {
+                    "en": "end",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "дуусгах"
+                },
+                {
+                    "en": "paragraph",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "дэд хэсэг"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 42",
+            "items": [
+                {
+                    "en": "well",
+                    "turul": "adv./adj./exclam.",
+                    "level": "A1",
+                    "mn": "сайн, сайн байна"
+                },
+                {
+                    "en": "explain",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "тайлбарлах"
+                },
+                {
+                    "en": "plane",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "нисэх онгоц"
+                },
+                {
+                    "en": "brown",
+                    "turul": "adj., n.",
+                    "level": "A1",
+                    "mn": "бор; бор өнгө"
+                },
+                {
+                    "en": "from",
+                    "turul": "prep.",
+                    "level": "A1",
+                    "mn": "…с, …аас"
+                },
+                {
+                    "en": "modern",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "орчин үеийн"
+                },
+                {
+                    "en": "shower",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "шүршүүр"
+                },
+                {
+                    "en": "building",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "барилга"
+                },
+                {
+                    "en": "hand",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "гар, барих"
+                },
+                {
+                    "en": "Saturday",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "Бямба"
+                },
+                {
+                    "en": "photograph",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "зураг авах"
+                },
+                {
+                    "en": "also",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "мөн, бас"
+                },
+                {
+                    "en": "programme",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хөтөлбөр"
+                },
+                {
+                    "en": "cook",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "хоол хийх; тогооч"
+                },
+                {
+                    "en": "like",
+                    "turul": "prep., v., n.",
+                    "level": "A1",
+                    "mn": "адил, таалагдах, дуртай байх"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 43",
+            "items": [
+                {
+                    "en": "euro",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "евро"
+                },
+                {
+                    "en": "hair",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "үс"
+                },
+                {
+                    "en": "down",
+                    "turul": "adv., prep.",
+                    "level": "A1",
+                    "mn": "доош"
+                },
+                {
+                    "en": "tell",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "хэлэх"
+                },
+                {
+                    "en": "until",
+                    "turul": "conj./prep.",
+                    "level": "A1",
+                    "mn": "~ хүртэл"
+                },
+                {
+                    "en": "business",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "бизнес, ажил хэрэг"
+                },
+                {
+                    "en": "bank money",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "money"
+                },
+                {
+                    "en": "journey",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "аялал"
+                },
+                {
+                    "en": "cent",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "цент, зоос"
+                },
+                {
+                    "en": "September",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "Есдүгээр сар"
+                },
+                {
+                    "en": "past",
+                    "turul": "adj., n., prep., adv.",
+                    "level": "A1",
+                    "mn": "өнгөрсөн, өнгөрсөнд"
+                },
+                {
+                    "en": "food",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хоол"
+                },
+                {
+                    "en": "would",
+                    "turul": "modal v.",
+                    "level": "A1",
+                    "mn": "хийнэ"
+                },
+                {
+                    "en": "hate",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "үзэн ядах"
+                },
+                {
+                    "en": "name",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "нэр, нэрлэх"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 44",
+            "items": [
+                {
+                    "en": "library",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "номын сан"
+                },
+                {
+                    "en": "conversation",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "яриа, харилцан яриа"
+                },
+                {
+                    "en": "together",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "хамтдаа"
+                },
+                {
+                    "en": "sentence",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "өгүүлбэр, шийтгэх"
+                },
+                {
+                    "en": "member",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "гишүүн"
+                },
+                {
+                    "en": "neighbour",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хөрш"
+                },
+                {
+                    "en": "vacation",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "амралт"
+                },
+                {
+                    "en": "elephant",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "заан"
+                },
+                {
+                    "en": "dirty",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "бохир"
+                },
+                {
+                    "en": "interest",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "сонирхол, сонирхох"
+                },
+                {
+                    "en": "yourself",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "чи өөрөө"
+                },
+                {
+                    "en": "brother",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "ах, дүү"
+                },
+                {
+                    "en": "tired",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "ядарсан"
+                },
+                {
+                    "en": "course",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "анхан шатны курс"
+                },
+                {
+                    "en": "forget",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "мартах"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 45",
+            "items": [
+                {
+                    "en": "country",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "улс, орон; хөдөө"
+                },
+                {
+                    "en": "west",
+                    "turul": "n./adj./adv.",
+                    "level": "A1",
+                    "mn": "баруун"
+                },
+                {
+                    "en": "big",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "том"
+                },
+                {
+                    "en": "popular",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "алдартай"
+                },
+                {
+                    "en": "Wednesday",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "Лхагва гараг"
+                },
+                {
+                    "en": "second1",
+                    "turul": "det./number, adv.",
+                    "level": "A1",
+                    "mn": "дараагийн, секунд"
+                },
+                {
+                    "en": "money",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "мөнгө"
+                },
+                {
+                    "en": "win",
+                    "turul": "v./n.",
+                    "level": "A1",
+                    "mn": "ялалт, ялах"
+                },
+                {
+                    "en": "half",
+                    "turul": "n., det./pron.",
+                    "level": "A1",
+                    "mn": "хагас"
+                },
+                {
+                    "en": "skill",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "ур чадвар"
+                },
+                {
+                    "en": "opinion",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "түүний санаа, үзэл"
+                },
+                {
+                    "en": "station",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "станц, зогсоол"
+                },
+                {
+                    "en": "fast",
+                    "turul": "adj., adv.",
+                    "level": "A1",
+                    "mn": "хурдан"
+                },
+                {
+                    "en": "success",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "амжилт"
+                },
+                {
+                    "en": "swimming",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "усан сэлэлт"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 46",
+            "items": [
+                {
+                    "en": "policeman",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "цагдаа"
+                },
+                {
+                    "en": "foot",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хөл"
+                },
+                {
+                    "en": "tomorrow",
+                    "turul": "adv., n.",
+                    "level": "A1",
+                    "mn": "маргааш"
+                },
+                {
+                    "en": "phone",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "утас, утасдах"
+                },
+                {
+                    "en": "midnight",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "шөнийн дунд"
+                },
+                {
+                    "en": "I",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "би"
+                },
+                {
+                    "en": "at",
+                    "turul": "prep.",
+                    "level": "A1",
+                    "mn": "дээр, -д, -т"
+                },
+                {
+                    "en": "add",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "нэмэх"
+                },
+                {
+                    "en": "north",
+                    "turul": "n., adj., adv.",
+                    "level": "A1",
+                    "mn": "хойд, хойд зүг"
+                },
+                {
+                    "en": "January",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "1-р сар"
+                },
+                {
+                    "en": "quickly",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "хурдан, түргэн"
+                },
+                {
+                    "en": "tree",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "мод"
+                },
+                {
+                    "en": "shirt",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "цамц"
+                },
+                {
+                    "en": "great",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "агуу, сайхан"
+                },
+                {
+                    "en": "mother",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "эх"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 47",
+            "items": [
+                {
+                    "en": "reading",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "уншлага"
+                },
+                {
+                    "en": "visitor",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "зочин"
+                },
+                {
+                    "en": "cost",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "үнэ, зардал; үнэтэй байх"
+                },
+                {
+                    "en": "plan",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "төлөвлөгөө, төлөвлөх"
+                },
+                {
+                    "en": "long1",
+                    "turul": "adj., adv.",
+                    "level": "A1",
+                    "mn": "урт, удаан"
+                },
+                {
+                    "en": "up",
+                    "turul": "adv./prep.",
+                    "level": "A1",
+                    "mn": "дээр, дээш"
+                },
+                {
+                    "en": "play",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "тоглох, тоглолт"
+                },
+                {
+                    "en": "stop",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "зогсох, зогсолт"
+                },
+                {
+                    "en": "interested",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "соён"
+                },
+                {
+                    "en": "bath",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "усанд орох, банн"
+                },
+                {
+                    "en": "study",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "судалгаа, судлах"
+                },
+                {
+                    "en": "nineteen",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "арван ес"
+                },
+                {
+                    "en": "fourteen",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "арван дөрөв"
+                },
+                {
+                    "en": "hey",
+                    "turul": "exclam.",
+                    "level": "A1",
+                    "mn": "сайн уу"
+                },
+                {
+                    "en": "traffic",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "замын хөдөлгөөн"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 48",
+            "items": [
+                {
+                    "en": "glass",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "шил"
+                },
+                {
+                    "en": "band",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хамтлаг, тууз"
+                },
+                {
+                    "en": "south",
+                    "turul": "n., adj., adv.",
+                    "level": "A1",
+                    "mn": "өмнөд, өмнөд тал"
+                },
+                {
+                    "en": "life",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "амьдрал"
+                },
+                {
+                    "en": "difficult",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "хэцүү"
+                },
+                {
+                    "en": "thirty",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "гуч"
+                },
+                {
+                    "en": "how",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "яаж"
+                },
+                {
+                    "en": "dancer",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "бүжигчин"
+                },
+                {
+                    "en": "tennis",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "теннис"
+                },
+                {
+                    "en": "the",
+                    "turul": "definite article",
+                    "level": "A1",
+                    "mn": "тодорхойлсон өгүүллэгийн заалт"
+                },
+                {
+                    "en": "we",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "бид"
+                },
+                {
+                    "en": "dish",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "агаар"
+                },
+                {
+                    "en": "just",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "яг, зөвхөн"
+                },
+                {
+                    "en": "right",
+                    "turul": "adj., adv., n.",
+                    "level": "A1",
+                    "mn": "зөв, эрх, баруун"
+                },
+                {
+                    "en": "hi",
+                    "turul": "exclam.",
+                    "level": "A1",
+                    "mn": "сайн уу"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 49",
+            "items": [
+                {
+                    "en": "week",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "долоо хоног"
+                },
+                {
+                    "en": "walk",
+                    "turul": "v./n.",
+                    "level": "A1",
+                    "mn": "алхах, алхалт"
+                },
+                {
+                    "en": "boy",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хөвгүүн"
+                },
+                {
+                    "en": "message",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "мессеж"
+                },
+                {
+                    "en": "OK",
+                    "turul": "exclam., adj./adv.",
+                    "level": "A1",
+                    "mn": "за, сайн"
+                },
+                {
+                    "en": "map",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "газрын зураг, зураглах"
+                },
+                {
+                    "en": "purple",
+                    "turul": "adj., n.",
+                    "level": "A1",
+                    "mn": "ногоон, хөх"
+                },
+                {
+                    "en": "opposite",
+                    "turul": "adj., adv., prep., n.",
+                    "level": "A1",
+                    "mn": "эсрэг тал, эсрэг"
+                },
+                {
+                    "en": "theatre",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "театр"
+                },
+                {
+                    "en": "cream",
+                    "turul": "n., adj.",
+                    "level": "A1",
+                    "mn": "сүүгийн тос, кремэн"
+                },
+                {
+                    "en": "choose",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "сонгох"
+                },
+                {
+                    "en": "help",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "туслах, тусламж"
+                },
+                {
+                    "en": "of",
+                    "turul": "prep.",
+                    "level": "A1",
+                    "mn": "–ын, –ийн"
+                },
+                {
+                    "en": "holiday",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "амралт"
+                },
+                {
+                    "en": "beautiful",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "гоё, сайхан"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 50",
+            "items": [
+                {
+                    "en": "number",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "тоо, тоо болгох"
+                },
+                {
+                    "en": "capital",
+                    "turul": "n., adj.",
+                    "level": "A1",
+                    "mn": "нийслэл; гол, үндсэн"
+                },
+                {
+                    "en": "cup",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "цайны аяга"
+                },
+                {
+                    "en": "piece",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "тусдаа хэсэг"
+                },
+                {
+                    "en": "share",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "хуваалцах, хувь"
+                },
+                {
+                    "en": "three",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "гурван"
+                },
+                {
+                    "en": "jeans",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "жинс"
+                },
+                {
+                    "en": "ice cream",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "мөсөн крем"
+                },
+                {
+                    "en": "winter",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "өвөл"
+                },
+                {
+                    "en": "difference",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "ялгаа"
+                },
+                {
+                    "en": "village",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "сум, тосгон"
+                },
+                {
+                    "en": "quite",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "мөн, нилээд"
+                },
+                {
+                    "en": "wake",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "сэрэх"
+                },
+                {
+                    "en": "end",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "төгсгөл"
+                },
+                {
+                    "en": "spelling",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "ээр бичих"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 51",
+            "items": [
+                {
+                    "en": "face",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "нүүр"
+                },
+                {
+                    "en": "ask",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "асуух"
+                },
+                {
+                    "en": "flower",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "цэцэг"
+                },
+                {
+                    "en": "fun",
+                    "turul": "n., adj.",
+                    "level": "A1",
+                    "mn": "тохиромжтой, хөгжилтэй"
+                },
+                {
+                    "en": "painting",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "зураг"
+                },
+                {
+                    "en": "during",
+                    "turul": "prep.",
+                    "level": "A1",
+                    "mn": "үеэр"
+                },
+                {
+                    "en": "concert",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "концерт"
+                },
+                {
+                    "en": "ice",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "мөс"
+                },
+                {
+                    "en": "everyone",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "бүх хүн"
+                },
+                {
+                    "en": "window",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "цонх"
+                },
+                {
+                    "en": "grandfather",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "өвөө"
+                },
+                {
+                    "en": "person",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хүн"
+                },
+                {
+                    "en": "dictionary",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "толь бичиг"
+                },
+                {
+                    "en": "note",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "тэмдэглэл, тэмдэглэх"
+                },
+                {
+                    "en": "answer",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "хариулт; хариулах"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 52",
+            "items": [
+                {
+                    "en": "grandparent",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "өвөө, эмээ"
+                },
+                {
+                    "en": "cafe",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "кафе, цайны газар"
+                },
+                {
+                    "en": "high",
+                    "turul": "adj., adv., n.",
+                    "level": "A1",
+                    "mn": "өндөр, өндөрт, өндөр"
+                },
+                {
+                    "en": "interview",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "ярилцлага, ярилцах"
+                },
+                {
+                    "en": "way",
+                    "turul": "n./adv.",
+                    "level": "A1",
+                    "mn": "зам, арга"
+                },
+                {
+                    "en": "coffee",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "кофе"
+                },
+                {
+                    "en": "fifty",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "тавин"
+                },
+                {
+                    "en": "true",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "үнэн"
+                },
+                {
+                    "en": "worker",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "ажилчин"
+                },
+                {
+                    "en": "begin",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "эхлэх"
+                },
+                {
+                    "en": "song",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "дуу"
+                },
+                {
+                    "en": "dear",
+                    "turul": "adj., exclam.",
+                    "level": "A1",
+                    "mn": "хүндэт, хайртай"
+                },
+                {
+                    "en": "mile",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "мил"
+                },
+                {
+                    "en": "sixty",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "жаран"
+                },
+                {
+                    "en": "later",
+                    "turul": "adv., adj.",
+                    "level": "A1",
+                    "mn": "дараа, дараагийн"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 53",
+            "items": [
+                {
+                    "en": "science",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "шинжлэх ухаан"
+                },
+                {
+                    "en": "really",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "үнэхээр"
+                },
+                {
+                    "en": "expensive",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "үнэтэй"
+                },
+                {
+                    "en": "poor",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "ядуу"
+                },
+                {
+                    "en": "jacket",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "куртка"
+                },
+                {
+                    "en": "cousin",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "авга/ах дүү"
+                },
+                {
+                    "en": "dangerous",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "аюултай"
+                },
+                {
+                    "en": "dinner",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "оройн хоол"
+                },
+                {
+                    "en": "healthy",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "эрүүл"
+                },
+                {
+                    "en": "who",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "хэн"
+                },
+                {
+                    "en": "fall",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "унахаар, намрын улирал"
+                },
+                {
+                    "en": "cut",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "хасах, огтлох"
+                },
+                {
+                    "en": "they",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "тэд"
+                },
+                {
+                    "en": "health",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "эрүүл мэнд"
+                },
+                {
+                    "en": "woman",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "эмэгтэй"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 54",
+            "items": [
+                {
+                    "en": "town",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хот"
+                },
+                {
+                    "en": "festival",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "тэмдэглэлт өдөр"
+                },
+                {
+                    "en": "fat",
+                    "turul": "adj., n.",
+                    "level": "A1",
+                    "mn": "тарган, өөх"
+                },
+                {
+                    "en": "artist",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "уран бүтээлч, зураач"
+                },
+                {
+                    "en": "arm",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "гар"
+                },
+                {
+                    "en": "because",
+                    "turul": "conj.",
+                    "level": "A1",
+                    "mn": "учраас"
+                },
+                {
+                    "en": "grey",
+                    "turul": "adj., n.",
+                    "level": "A1",
+                    "mn": "саарал"
+                },
+                {
+                    "en": "find",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "олох"
+                },
+                {
+                    "en": "fish",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "загас, загас барих"
+                },
+                {
+                    "en": "possible",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "боломжтой"
+                },
+                {
+                    "en": "sport",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "спорт"
+                },
+                {
+                    "en": "wash",
+                    "turul": "v./n.",
+                    "level": "A1",
+                    "mn": "угааах, угаалга"
+                },
+                {
+                    "en": "card",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "карт"
+                },
+                {
+                    "en": "leave",
+                    "turul": "v., n.",
+                    "level": "A1",
+                    "mn": "орхиод явах, орхиод өгөх"
+                },
+                {
+                    "en": "on",
+                    "turul": "prep., adv.",
+                    "level": "A1",
+                    "mn": "дээр, дээрээс"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 55",
+            "items": [
+                {
+                    "en": "or",
+                    "turul": "conj.",
+                    "level": "A1",
+                    "mn": "эсвэл"
+                },
+                {
+                    "en": "party",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "наадам, нам"
+                },
+                {
+                    "en": "real",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "үнэн, бодит"
+                },
+                {
+                    "en": "coat",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "пальто, хүрэм"
+                },
+                {
+                    "en": "ago",
+                    "turul": "adv.",
+                    "level": "A1",
+                    "mn": "өмнө"
+                },
+                {
+                    "en": "company",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "компани, хамт олон"
+                },
+                {
+                    "en": "bad",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "муу"
+                },
+                {
+                    "en": "thing",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "юмуу зүйл"
+                },
+                {
+                    "en": "price",
+                    "turul": "n., v.",
+                    "level": "A1",
+                    "mn": "үнэ, үнэлэх"
+                },
+                {
+                    "en": "beer",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "шар айраг"
+                },
+                {
+                    "en": "learn",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "сурах"
+                },
+                {
+                    "en": "die",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "үхэх"
+                },
+                {
+                    "en": "little",
+                    "turul": "adj., det./pron., adv.",
+                    "level": "A1",
+                    "mn": "бага, жаахан"
+                },
+                {
+                    "en": "in",
+                    "turul": "prep., adv.",
+                    "level": "A1",
+                    "mn": "дотор, -д"
+                },
+                {
+                    "en": "she",
+                    "turul": "pron.",
+                    "level": "A1",
+                    "mn": "тэр эмэгтэй"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 56",
+            "items": [
+                {
+                    "en": "more",
+                    "turul": "det./pron., adv.",
+                    "level": "A1",
+                    "mn": "илүү"
+                },
+                {
+                    "en": "salad",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "салат"
+                },
+                {
+                    "en": "skirt",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "сэрээ, юбка"
+                },
+                {
+                    "en": "enjoy",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "таашаах"
+                },
+                {
+                    "en": "guitar",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "гитар"
+                },
+                {
+                    "en": "road",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "зам"
+                },
+                {
+                    "en": "team",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "баг"
+                },
+                {
+                    "en": "trousers",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "өмд"
+                },
+                {
+                    "en": "classroom",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "анги танхим"
+                },
+                {
+                    "en": "compare",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "харьцуулах"
+                },
+                {
+                    "en": "tomato",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "уул, улаан лооль"
+                },
+                {
+                    "en": "draw",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "зурах"
+                },
+                {
+                    "en": "follow",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "дагах"
+                },
+                {
+                    "en": "describe",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "тодорхойлох"
+                },
+                {
+                    "en": "information",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "мэдээлэл"
+                }
+            ]
+        },
+        {
+            "name": "Lesson 57",
+            "items": [
+                {
+                    "en": "remember",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "санах"
+                },
+                {
+                    "en": "through",
+                    "turul": "prep., adv.",
+                    "level": "A1",
+                    "mn": "араа, дамжин"
+                },
+                {
+                    "en": "complete",
+                    "turul": "adj., v.",
+                    "level": "A1",
+                    "mn": "бүтэн, бүрэн; дуусгах, гүйцээх"
+                },
+                {
+                    "en": "wrong",
+                    "turul": "adj./adv./n.",
+                    "level": "A1",
+                    "mn": "буруу, буруу зүйл"
+                },
+                {
+                    "en": "must",
+                    "turul": "modal v.",
+                    "level": "A1",
+                    "mn": "заавал"
+                },
+                {
+                    "en": "bread",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "талх"
+                },
+                {
+                    "en": "baby",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "нярай, хүүхэд"
+                },
+                {
+                    "en": "nine",
+                    "turul": "number",
+                    "level": "A1",
+                    "mn": "ес"
+                },
+                {
+                    "en": "hot",
+                    "turul": "adj.",
+                    "level": "A1",
+                    "mn": "дулаан"
+                },
+                {
+                    "en": "discuss",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "ярилцах"
+                },
+                {
+                    "en": "create",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "бүтээх"
+                },
+                {
+                    "en": "understand",
+                    "turul": "v.",
+                    "level": "A1",
+                    "mn": "ойлгох"
+                },
+                {
+                    "en": "their",
+                    "turul": "det.",
+                    "level": "A1",
+                    "mn": "тэдний"
+                },
+                {
+                    "en": "oh",
+                    "turul": "exclam.",
+                    "level": "A1",
+                    "mn": "ойлгомжтой, ойр ойрхон"
+                },
+                {
+                    "en": "writing",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "бичвэр"
+                },
+                {
+                    "en": "child",
+                    "turul": "n.",
+                    "level": "A1",
+                    "mn": "хүүхэд"
+                }
+            ]
+        }
+    ]
+}
